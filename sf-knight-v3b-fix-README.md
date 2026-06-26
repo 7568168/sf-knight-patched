@@ -1,0 +1,1 @@
+APK v3b fix: Helper.b() method cleaned (removed dead code between CRC check and return). This version also includes all previous fixes: 16KB alignment (v1), HiddenApiBypass (v2), ShellLogger (v3).
